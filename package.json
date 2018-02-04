@@ -6,9 +6,9 @@
 		"npm": "3.10.10"
 	},
   "description": "",
-  "main": "herokutest.js",
+  "main": "node herokutest.js",
   "scripts": {
-    "start": "herokutest.js"
+    "start": "node herokutest.js"
   },
   "repository": {
     "type": "git",
