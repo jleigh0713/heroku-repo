@@ -8,7 +8,7 @@
   "description": "",
   "main": "herokutest.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "herokutest.js"
   },
   "repository": {
     "type": "git",
